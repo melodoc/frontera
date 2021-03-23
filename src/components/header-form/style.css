@@ -1,9 +1,0 @@
-.header-nav {
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: wrap;
-  margin: var(--offset) var(--offset-large) 0;
-
-  font-size: var(--font-size);
-  line-height: var(--line-height);
-}
